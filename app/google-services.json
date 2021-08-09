@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769281533962",
+    "project_id": "cicdtut",
+    "storage_bucket": "cicdtut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769281533962:android:52dcb1c09e85b78dab97f3",
+        "android_client_info": {
+          "package_name": "exportkit.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769281533962-ua7jlv76032jnsmup54rooq5dafreo4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2zzaCsYNi4BYxDm_LFZ16pkJJC0xMv5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769281533962-ua7jlv76032jnsmup54rooq5dafreo4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
